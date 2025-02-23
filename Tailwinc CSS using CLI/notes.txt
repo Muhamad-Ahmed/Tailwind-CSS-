@@ -1,0 +1,3 @@
+To run tailwind css using CLI  is the best way when you want to use tailwind css in html files .
+to do that just follow the documentation of tailwind css don't go t anywhere  or don't follow any video tutorial in case of errors got to stack overflow.
+You can also use play CDN to learn tailwind css but not for projects.
