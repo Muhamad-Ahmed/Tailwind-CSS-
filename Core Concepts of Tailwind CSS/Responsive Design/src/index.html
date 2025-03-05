@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./output.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="vsm:max-md:text-red-600">I am div.</div> 
+    <div class="sm:max-md:text-red-600">I am responsive design.</div> 
+    <div class="sm:max-md:text-red-600">I am responsive design.</div> 
+    <!-- Using arbitrary values -->
+    <div class="min-[200px]:max-[400px]:text-blue-400">Blue text between 200-400px width</div>
+    <!-- vsm means very small breakpoint (which is custom breakpoint ) defined by ahmed in input.css-->
+
+    <div class="@container w-sm bg-purple-300">
+        <div class="text-purple-700  @max-md:text-yellow-300">
+          <!-- ... --> container
+        </div>
+      </div>
+  
+</body>
+</html>

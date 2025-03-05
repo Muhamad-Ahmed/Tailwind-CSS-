@@ -1,0 +1,1 @@
+In Tailwind, separate classes are used for the default state and the hover state

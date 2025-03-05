@@ -1,0 +1,3 @@
+loops in tailwind css (not understood){smjh nhi aya}.
+
+topic of conflicting utility classes is very important and reusable styles.(can read)
